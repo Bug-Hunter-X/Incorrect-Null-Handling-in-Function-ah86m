@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript involving incorrect handling of null values in function parameters. The initial code handles null values incorrectly, returning 0 when it should return null or throw an error. The corrected code provides a solution to this problem, ensuring proper null handling.
